@@ -1,0 +1,18 @@
+Keithley MOScap Data Plotter
+
+28 August 2018
+Written by Jake Millhiser
+
+This program plots .xls spreadsheet data in a manner any real programmer
+would find distasteful. Includes copy and pasting my code rather than making a uniform function!
+
+Python3 Library Dependancies:
+	xlrd
+	numpy
+	matplotlib
+	tkinter
+
+Features to add:
+	Selection of Specific Frequencies 
+	Determine Lowest and Highest Frequencies using number of columns
+
